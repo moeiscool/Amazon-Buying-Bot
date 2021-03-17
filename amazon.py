@@ -21,7 +21,7 @@ def amazon():
     login_email = input("Enter your email for Amazon:")
     login_password = input("Enter your password for Amazon:")
     countries = ["fr", "it", "es", "de", "co.uk"]
-    ps5 = {"item": "Playstation 5", "min_price": 498, "price_max":520,"link":"https://www.amazon.fr/PlayStation-%C3%89dition-Standard-DualSense-Couleur/dp/B08H93ZRK9"}
+    ps5 = {"item": "Playstation 5", "min_price": 498, "price_max":520,"link":"https://www.amazon.ca/PlayStation-5-Console/dp/B08GSC5D9G"}
     items = [ps5]
 
     def browsers_creator():
